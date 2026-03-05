@@ -5,9 +5,9 @@ Gamezone, established in 2018, is a global e-commerce company that sells new and
 The company has significant amounts of data on its sales, marketing efforts, operational efficiency, and product offerings. This project thoroughly analyzes and synthesizes this data in order to uncover critical insights for finance, marketing and product teams that will improve Gamezone's commercial success. 
 
 Insights and recommendations are provided on the following key areas:
-- **Sales Trends Analysis**: Evaluation of historical sales patterns, both globally and by region, focusing on Revenue, Order Volume, and Average Order Value (AOV).
+- **Sales and Returns Trends Analysis**: Evaluation of historical sales and returns patterns, both globally and by region, focusing on Revenue, Returns, Order Volume, and Average Order Value (AOV).
 - **Product Level Performance**: An analysis of Gamezone's various product lines, understanding their impact on sales and returns.
-- **Regional Comparisons**: An evaluation of sales and orders by region.
+- **Regional and Channel Comparisons**: An evaluation of sales and orders by region and marketing channel.
 
 ## Data Structure Overview
 Gamezone's dataset as seen below consists of 2 tables: orders and region. 
@@ -16,7 +16,7 @@ Each unique record of the `orders` table corresponds to one purchase transaction
 
 <img width="960" height="510" alt="Gamezone ERD" src="https://github.com/user-attachments/assets/a08a5008-f114-4bcd-bea6-2c99e5e85b8a" />
 
-Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the dataset, using Excel. You can find the initial and cleaned datasets, pivot tables for data checks and exploratory analysis, as well as isues log and insights log [here](link).
+Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the dataset, using Excel. You can find the initial and cleaned datasets, pivot tables for data checks and exploratory analysis, as well as isues log and insights log here ([download](gamezone_dataset%20_eda_insights.xlsx) or [preview](https://docs.google.com/spreadsheets/d/10-SjSoedixq2WS-kZHaFognTLn4v1xEJ/edit?usp=sharing&ouid=105351884361855533308&rtpof=true&sd=true)).
 
 ## Executive Summary
 Between 2019 and 2021, the company generated approximately $6.1M in total revenue, with a significant acceleration beginning in early 2020. Sales more than doubled during the pandemic period, peaking in September and December 2020, before declining sharply in early 2021 toward pre-COVID levels.
@@ -29,10 +29,10 @@ Revenue growth was broad-based across products, regions, and channels, suggestin
 
 While the business proved highly responsive to favorable demand conditions, the post-2020 normalization highlights the need for diversification, improved forecasting stability, and reduced reliance on a narrow revenue base.
 
+The entire interactive Tableau dashboard can be viewed and downloaded [here](https://public.tableau.com/app/profile/diana.radchenko/viz/GamezoneSalesPerformance2019-2021/SalesPerformanceDashboard).
+
 <img width="1652" height="1082" alt="gamezone dashboard 1" src="https://github.com/user-attachments/assets/8e031026-a27f-4a1d-a130-d06557588dc0" />
 <img width="1652" height="572" alt="gamezone dashboard 2" src="https://github.com/user-attachments/assets/9d86a77e-d8cc-422f-9f54-d575837ebb5b" />
-
-The entire interactive Tableau dashboard can be downloaded [here](link).
 
 ## Insights Deep Dive
 
