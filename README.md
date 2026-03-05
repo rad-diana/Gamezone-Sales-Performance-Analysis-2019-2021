@@ -85,4 +85,65 @@ The key insight is that **heavy reliance on Direct traffic makes revenue vulnera
 
 <img width="1450" height="656" alt="gamezone sales by marketing channel" src="https://github.com/user-attachments/assets/3de875b1-9cd6-4667-984e-53db040f5ae1" />
 
+### 5. Sales by Region
+
+Sales trends are broadly similar across regions, reinforcing the macro-level nature of the 2020 spike and 2021 dip.
+
+However, **North America** shows the steepest post-peak decline. Additionally, the **Sony PS5 drop** is particularly concentrated in North America and EMEA within the Direct channel (as it shows in a dashboard above).
+
+Given North America's revenue weight, its volatility has an outsized impact on total sales performance.
+
+<img width="1347" height="660" alt="gamezone sales by region" src="https://github.com/user-attachments/assets/858d799b-741b-4b91-ab90-9fb900bb771b" />
+
+### 6. Refund Trends
+
+Refund patterns closely follow revenue spikes, particularly during late 2020.
+
+Top-revenue products (27in 4K Gaming Monitor, Nintendo Switch, and Sony PlayStation 5 Bundle) account for the largest refund volumes in absolute dollar terms. This mirrors the revenue concentration pattern. **The products driving revenue are also driving refund exposure**.
+
+Key observations across products:
+- The 27in 4K Gaming Monitor shows substantial refunded sales relative to its revenue size
+- Nintendo Switch also exhibits a high refund count, consistent with its large order volume
+- Sony PS5 Bundle shows high refund value, reflecting its high AOV
+- Headsets generate low revenue but still show refund activity, which may indicate weaker customer satisfaction relative to sales size
+
+Refund spikes are especially visible during the same months as revenue spikes, indicating that growth periods amplify operational and financial risk.
+
+<img width="1320" height="759" alt="gamezone refunds" src="https://github.com/user-attachments/assets/4173e141-b58b-48c1-b74c-6a1323913008" />
+
 ## Recommendations
+
+### 1. Reduce Product Concentration Risk (Product Team)
+
+Since three products (the 27in 4K Gaming Monitor, Sony PlayStation 5 Bundle, and Nintendo Switch) drive the majority of revenue and volatility, to reduce reliance on them, the Product team should focus on:
+- Expanding variations or premium tiers of top-performing products.
+- Introducing complementary products that bundle with consoles and monitors.
+- Reevaluating the headset category. Given its contribution of less than 2% of revenue, consider bundling strategies or discontinuation if performance does not improve.
+
+### 2. Audit and Diversify Marketing Channels (Marketing Team)
+
+Given Direct accounts for roughly 80% of revenue, to reduce reliance on this traffic and create a more balanced marketing strategy the Marketing Team should:
+- Validate attribution logic to ensure Direct is not overstated (recommendation for the Data and Analytics Team).
+- Strengthen email and other emerging channels showing potential.
+- Reduce structural dependence on Direct over the next 1–2 years.
+
+### 3. Leverage Q4 Seasonality Strategically (Marketing Team)
+
+Given the strong December spike across all products to help maximize revenue during historically strong periods:
+- Begin promotional ramp-up in October.
+- Allocate higher marketing budgets to November and December.
+- Prioritize Gaming Monitor, Nintendo Switch, and Sony PS5 in winter campaigns.
+
+### 4. Strengthen North America Recovery Strategy (Marketing Team)
+
+Given NA shows the steepest dip:
+- Conduct competitive pricing analysis.
+- Evaluate inventory constraints during early 2021.
+- Launch targeted campaigns for top-performing products in NA.
+
+### 5. Implement Refund Risk Controls (Finance Team, Product Team, Customer Experience Team)
+
+Since refund exposure is concentrated in high-ticket items:
+- The Product team should ensure product pages contain clear specifications, compatibility information, and setup guidance to reduce misunderstanding before purchase.
+- The Customer Experience team should strengthen post-purchase support, helping customers resolve issues before they decide to return products.
+- The Finance team should begin tracking refund rates as a recurring KPI, rather than monitoring only the total refunded value.
